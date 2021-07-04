@@ -7,7 +7,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "68859F8D-8D18-4841-9E5E-DB44EBB59535"
+            uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -18,6 +18,83 @@
             endingLineNumber = "12"
             landmarkName = "HikeDetail"
             landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A - 887b0667838f673a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Hiking.HikeDetail.(zoomed in _72C4EE1F3C10ECAE613794B67ABA0A29) : Swift.Bool"
+                  moduleName = "Hiking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaurakawa/Desktop/Xcode_Projects/SwiftUILearning/Hiking/Hiking/HikeDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A - 6a7978bddd87f30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hiking.HikeDetail.(zoomed in _72C4EE1F3C10ECAE613794B67ABA0A29).getter : Swift.Bool"
+                  moduleName = "Hiking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaurakawa/Desktop/Xcode_Projects/SwiftUILearning/Hiking/Hiking/HikeDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A - dc2118a2a54f57c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hiking.HikeDetail.(zoomed in _72C4EE1F3C10ECAE613794B67ABA0A29).setter : Swift.Bool"
+                  moduleName = "Hiking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaurakawa/Desktop/Xcode_Projects/SwiftUILearning/Hiking/Hiking/HikeDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A - 7437eebaadf1697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hiking.HikeDetail.init(hike: Hiking.Hike) -&gt; Hiking.HikeDetail"
+                  moduleName = "Hiking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaurakawa/Desktop/Xcode_Projects/SwiftUILearning/Hiking/Hiking/HikeDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "6B01072F-BB2F-49B6-95CB-BCEF72878E8A - 6a06c22c8400237a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Hiking_PreviewReplacement_HikeDetail_6):Hiking.HikeDetail.(__preview__body in _74887BC068E2A42F5DCB7A80E27BB85B).getter : some"
+                  moduleName = "HikeDetail.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaurakawa/Desktop/Xcode_Projects/SwiftUILearning/Hiking/Hiking/HikeDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "499">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
