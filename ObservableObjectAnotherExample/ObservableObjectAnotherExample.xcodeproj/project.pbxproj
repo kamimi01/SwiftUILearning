@@ -14,6 +14,7 @@
 		D45D0DBB2691EC5A00D79032 /* ObservableObjectAnotherExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45D0DBA2691EC5A00D79032 /* ObservableObjectAnotherExampleTests.swift */; };
 		D45D0DC62691EC5A00D79032 /* ObservableObjectAnotherExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45D0DC52691EC5A00D79032 /* ObservableObjectAnotherExampleUITests.swift */; };
 		D45D0DD72691EC7C00D79032 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45D0DD62691EC7C00D79032 /* UserSettings.swift */; };
+		D45D0DDC2691EF4E00D79032 /* FancyScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45D0DDB2691EF4E00D79032 /* FancyScoreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D45D0DC52691EC5A00D79032 /* ObservableObjectAnotherExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObjectAnotherExampleUITests.swift; sourceTree = "<group>"; };
 		D45D0DC72691EC5A00D79032 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D45D0DD62691EC7C00D79032 /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
+		D45D0DDB2691EF4E00D79032 /* FancyScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyScoreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D45D0DB12691EC5A00D79032 /* Info.plist */,
 				D45D0DAE2691EC5A00D79032 /* Preview Content */,
 				D45D0DD62691EC7C00D79032 /* UserSettings.swift */,
+				D45D0DDB2691EF4E00D79032 /* FancyScoreView.swift */,
 			);
 			path = ObservableObjectAnotherExample;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				D45D0DAB2691EC5900D79032 /* ContentView.swift in Sources */,
 				D45D0DD72691EC7C00D79032 /* UserSettings.swift in Sources */,
 				D45D0DA92691EC5900D79032 /* ObservableObjectAnotherExampleApp.swift in Sources */,
+				D45D0DDC2691EF4E00D79032 /* FancyScoreView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

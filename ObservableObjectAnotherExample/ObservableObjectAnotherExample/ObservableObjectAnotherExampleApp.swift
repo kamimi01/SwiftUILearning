@@ -11,7 +11,9 @@ import SwiftUI
 struct ObservableObjectAnotherExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            
+            let userSettings = UserSettings()
+            ContentView().environmentObject(userSettings)
         }
     }
 }
