@@ -48,6 +48,25 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        
+        Group {
+            
+            // ダークモード
+            ContentView().colorScheme(.dark)
+            
+            ContentView().previewDevice("iPhone SE")
+            
+            // Dynamic Font
+            ContentView().previewLayout(.sizeThatFits)
+                .environment(\.sizeCategory, .extraExtraExtraLarge)
+            
+            ContentView().previewLayout(.sizeThatFits)
+                .environment(\.sizeCategory, .extraExtraLarge)
+            
+            ContentView().previewLayout(.sizeThatFits)
+                .environment(\.sizeCategory, .extraSmall)
+        }
+        
+        
     }
 }
